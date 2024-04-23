@@ -3,7 +3,7 @@ title: "Standard Hypertext Query"
 abbrev: "SHQ"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-hudlow-httpapi-shq-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -25,9 +25,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
+    fullname: "Dan Hudlow"
     organization: Your Organization Here
-    email: your.email@example.com
+    email: "dan@hudlow.org"
 
 normative:
 
